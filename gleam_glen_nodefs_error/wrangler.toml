@@ -1,0 +1,6 @@
+name = "glen_nodefs_error"
+main = "build/dev/javascript/glen_nodefs_error/index.js"
+compatibility_date = "2023-09-22"
+
+[build]
+command = "gleam build"
